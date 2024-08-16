@@ -31,6 +31,11 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 
 ## Deploy on Vercel
 
+
+
+Developed an Industry Management System to streamline and automate tasks for small-scale industries. The frontend, built with React, offers a responsive and intuitive interface. The backend, using Node.js and Express.js, ensures scalability and maintainability. Data integrity is maintained with Sequelize ORM and migrations, simplifying database interactions and updates. This system significantly reduces manual work, enhancing overall productivity and efficiency.
+
+
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
